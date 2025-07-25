@@ -13,7 +13,6 @@ A simple Telegram chatbot powered by OpenAI’s GPT-3.5-turbo, built with [aiogr
 
 ### 1. Clone the repository
 ```
-bash
 git clone https://github.com/yourusername/telegram-gpt-bot.git
 cd telegram-gpt-bot
 ```
@@ -22,7 +21,6 @@ cd telegram-gpt-bot
 We recommend using a virtual environment:
 
 ```
-bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -38,7 +36,6 @@ TELEGRAM_BOT_TOKEN=your-telegram-bot-token-here
 
 ### 4. Run the bot
 ```
-bash
 python research/echo_bot.py
 ```
 
