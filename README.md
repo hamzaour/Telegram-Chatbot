@@ -1,4 +1,4 @@
-# Telegram ChatGPT Bot
+# Telegram Bot using OpenAI API
 
 A simple Telegram chatbot powered by OpenAI’s GPT-3.5-turbo, built with [aiogram](https://github.com/aiogram/aiogram).
 
